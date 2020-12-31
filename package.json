@@ -4,6 +4,7 @@
   "description": "Dark Theme optimized for ReactJS",
   "version": "1.0.0",
   "publisher": "pxius",
+  "repository": "https://github.com/pXius/Carbon-Owl",
   "engines": {
     "vscode": "^1.52.0"
   },
