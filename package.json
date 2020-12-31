@@ -1,0 +1,22 @@
+{
+  "name": "carbon-owl",
+  "displayName": "Carbon Owl",
+  "description": "Dark Theme optimized for ReactJS",
+  "version": "1.0.0",
+  "publisher": "pxius",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Carbon Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Carbon Owl-color-theme.json"
+      }
+    ]
+  }
+}
