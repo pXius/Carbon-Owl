@@ -2,7 +2,7 @@
   "name": "carbon-owl",
   "displayName": "Carbon Owl",
   "description": "Dark Theme optimized for ReactJS and other JS Frameworks",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "pxius",
   "repository": "https://github.com/pXius/Carbon-Owl",
   "icon": "images/logo.jpg",
@@ -10,7 +10,8 @@
     "Carbon",
     "Owl",
     "Theme",
-    "Dark"
+    "Dark",
+    "Light"
   ],
   "engines": {
     "vscode": "^1.52.0"
@@ -24,6 +25,11 @@
         "label": "Carbon Owl",
         "uiTheme": "vs-dark",
         "path": "./themes/Carbon Owl-color-theme.json"
+      },
+      {
+        "label": "Snow Owl",
+        "uiTheme": "vs",
+        "path": "./themes/Snow Owl-color-theme.json"
       }
     ]
   }
