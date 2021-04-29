@@ -331,6 +331,12 @@
       }
     },
     {
+      "scope": ["variable.other.constant"],
+      "settings": {
+        "foreground": "#455059"
+      }
+    },
+    {
       "scope": [
         "keyword.control.import",
         "meta.module.name.elm support",
